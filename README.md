@@ -6,3 +6,5 @@ On peut trouver l'ensemble des notebook et .py développés pendant tout le proc
 
 Le model a pour but de lire des chiffres. Nous devions créer un jeu consistant à écrire un chiffre compris entre 1 et 9 dans une case et le model devait prédire
 (grâce à un bouton predict)
+
+Afin d'éviter des conflits lors du déploiement de l'appli, un autre GitHub va servir rien que pour ça et fera office de rendu individuel !
