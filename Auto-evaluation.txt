@@ -1,0 +1,37 @@
+Semaine avec la P13 :
+
+Lundi 29/11 :
+Apprentissage des méthodes de travail en équipe avec Toska
+Savoir présenter (en Slide) un premier modèle de Deep Learning
+
+Mardi 30/11 :
+Veille découverte du CNN
+
+Mercredi 01/12 :
+Construire premier modèle CNN avec le dataset (des chiffres de 0 à 9)
+Comprendre le but des DropOut
+Test avec différentes itérations
+Découverte des Datas augmentations
+Dévouverte du format h5 pour save et load le modèle
+
+Jeudi & Vendredi 02 & 03/12 :
+Apprendre à déployer sur Streamlit
+Travail en équipe avec différentes personnes (P15 et P13)
+Adapter espace GitHub pour le déploiement
+
+
+
+
+Semaine suivante :
+
+Lundi 06/12 : /
+
+Mardi 07/12 :
+Correction des notebooks
+Essayer de régler un souci avec le serveur en local...
+
+Mercredi & Jeudi 08 & 09/12 : 
+Veilles
+
+Vendredi 10/12 : 
+Jour du rendu/présentation
