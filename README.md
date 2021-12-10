@@ -9,4 +9,5 @@ Le model a pour but de lire des chiffres. Nous devions créer un jeu consistant 
 
 Afin d'éviter des conflits lors du déploiement de l'appli, un autre GitHub va servir rien que pour ça.
 Il est composé des mêmes éléments servant à cette effet : app000.py, le sh, le requirement.txt etc...
-Voir melody_branch
+
+Lire aussi ReadMe (sous jupyter) pour plus de renseignements !
